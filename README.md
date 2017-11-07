@@ -1,6 +1,6 @@
 # Polyvia
 
-Low Poly Style Image and Video Processing
+这是一个fork的项目，三角形算法并着色；Low Poly Style Image and Video Processing
 
 详细算法参见[知乎回答：如何使用 JavaScript 生成 low-poly 风格图像？](http://www.zhihu.com/question/29856775/answer/57668656)
 
